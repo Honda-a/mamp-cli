@@ -4,9 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-numpy = "*"
-requests = "*"
-twine = "*"
+click = "*"
 
 [dev-packages]
 "flake8" = "*"
